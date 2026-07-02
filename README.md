@@ -1,16 +1,70 @@
-## Hi there 👋
+# 👋 Hi, I'm Charlotte Fundavila Raza
 
-<!--
-**razacharlotte07-byte/razacharlotte07-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bachelor of Science in Computer Engineering Graduate
 
-Here are some ideas to get you started:
+🌐 Aspiring Network & Cloud Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 San Pablo City, Laguna, Philippines
+
+---
+
+## About Me
+
+I am a Computer Engineering graduate passionate about networking, cloud computing, embedded systems, and IT infrastructure.
+
+My goal is to become a Network Engineer and eventually specialize in Cloud Engineering.
+
+This GitHub showcases my networking projects, embedded systems, and continuous learning journey.
+
+---
+
+## Currently Learning
+
+- Cisco Networking Basics
+- AWS Cloud Practitioner
+- Microsoft Azure Fundamentals
+- Linux Administration
+- Python for Network Automation
+
+---
+
+## Technical Skills
+
+### Networking
+- TCP/IP
+- Routing & Switching
+- VLAN
+- DHCP
+- DNS
+- GNS3
+- Cisco Packet Tracer
+
+### Cloud
+- AWS Fundamentals
+- Microsoft Azure Fundamentals
+
+### Operating Systems
+- Windows
+- Linux
+
+### Programming
+- Python (Basic)
+- C++
+- Assembly Language (EMU8086)
+
+---
+
+## Academic Projects
+
+-  Enterprise Campus Network using GNS3
+-  Portable AI Embedded Training System Kit
+-  Heatseeker R5 – Automatic Fire Fighting Robot
+-  Smart Blind Stick
+-  Heart Rate & Stress Level Monitoring System
+-  Digital Logic and Circuit Design Projects
+
+---
+
+## Career Goal
+
+To start my career as a Network Engineer or Cloud Support Engineer while continuously improving my skills in networking, cloud computing, Linux, and automation.
